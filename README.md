@@ -21,6 +21,7 @@
 
 ## 🧠 Machine Learning
 > Libraries: PyTorch, Scikit-learn, TorchFlow
+
 > Applications: Churn Prediction, Yield Prediction, and Image Processing
 
 ## 🔧 Tools & IDEs
