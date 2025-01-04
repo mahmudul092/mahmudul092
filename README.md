@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mahmudul Azad Sajol.
 
-🎓 MSc in CSE @ RUET | 💼 Data Analyst transitioning to Data Engineer | 🌍 Bangladesh
+🎓 MSc in CSE @ RUET | 💼 Data Analyst | 🌍 Bangladesh
 
 ## 👨‍💻 About Me
 
