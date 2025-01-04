@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mahmudul Azad Sajol.
 
-🎓 MSc in CSE @ RUET | 💼 Data Analyst transitioning to Data Engineer | 🌍 Based in Bangladesh
+🎓 MSc in CSE @ RUET | 💼 Data Analyst transitioning to Data Engineer | 🌍 Bangladesh
 
 ## 👨‍💻 About Me
 
@@ -9,4 +9,10 @@
 📊 Skilled in SQL, Power BI, Python, and Excel.
 🌱 Currently learning advanced Data Engineering techniques and exploring Big Data Technologies.
 🎯 Research Interests: Climate-Health Interactions, Deep Learning Applications, and E-commerce Data Analysis.
+
+## 🔧 Skills & Technologies
+💻 Data Analysis & Visualization
+Languages: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, Excel
+Visualization Tools: Power BI, Tableau
+Databases: MySQL, SQL Server, RDBMS
 
