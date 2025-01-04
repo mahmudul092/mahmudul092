@@ -12,7 +12,10 @@
 
 ## 🔧 Skills & Technologies
 💻 Data Analysis & Visualization
-Languages: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, Excel
-Visualization Tools: Power BI, Tableau
-Databases: MySQL, SQL Server, RDBMS
+
+> Languages: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, Excel
+
+> Visualization Tools: Power BI, Tableau
+
+> Databases: MySQL, SQL Server, RDBMS
 
