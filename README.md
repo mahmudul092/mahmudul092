@@ -1,5 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm Mahmudul Azad Sajol.
 
+###🎓 MSc in CSE @ RUET | 💼 Data Analyst transitioning to Data Engineer | 🌍 Based in Bangladesh
 
 **mahmudul092/mahmudul092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
