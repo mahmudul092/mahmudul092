@@ -4,11 +4,20 @@
 
 ## 👨‍💻 About Me
 
-🚀 Experienced in Data Analysis, Visualization, and Machine Learning.
-🔍 Passionate about uncovering insights from data and building predictive models to solve real-world problems.
-📊 Skilled in SQL, Power BI, Python, and Excel.
-🌱 Currently learning advanced Data Engineering techniques and exploring Big Data Technologies.
-🎯 Research Interests: Climate-Health Interactions, Deep Learning Applications, and E-commerce Data Analysis.
+I'm a Data Analyst and AI Enthusiast with a Bachelor's Degree in Computer Science & Engineering. I am passionate about solving real-world problems through data and leveraging tools like Excel, Power BI, Python, SQL, and Machine Learning to uncover actionable insights.
+
+🌱 Currently learning: Advanced Machine Learning, Data Engineering techniques, and Big Data Technologies.
+
+📊 Passionate about: Creating data-driven solutions, building insightful dashboards, and developing predictive models.
+
+💻 Technical expertise: Proficient in Python, SQL, Power BI, C, and C++. I enjoy coding and crafting tools that make complex tasks more manageable.
+
+🎨 Creative edge: Skilled in graphic design, which I apply to enhance data visualizations and presentations.
+
+🎯 Research interests: Climate-Health Interactions, Deep Learning Applications, and E-commerce Data Analysis.
+
+I'm actively seeking an entry-level Data Analyst role where I can contribute my skills to solve business challenges and grow in a professional setting.
+
 
 ## 🔧 Skills & Technologies
 💻 Data Analysis & Visualization
